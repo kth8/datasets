@@ -15,4 +15,5 @@ Common math datasets converted into JSON format. Each entry has been normalized 
 {'file': 'numinamath-cot.json', 'source': 'https://huggingface.co/datasets/AI-MO/NuminaMath-CoT', 'split': 'train', 'entries': 3695}
 {'file': 'deepmath-103k.json', 'source': 'https://huggingface.co/datasets/zwhe99/DeepMath-103K', 'split': 'train', 'entries': 3617}
 {'file': 'dapo-math-17k-processed.json', 'source': 'https://huggingface.co/datasets/open-r1/DAPO-Math-17k-Processed', 'split': 'train', 'entries': 14116}
+{'file': 'big-math-rl-verified-processed.json', 'source': 'https://huggingface.co/datasets/open-r1/Big-Math-RL-Verified-Processed', 'split': 'train', 'entries': 137822}
 ```
