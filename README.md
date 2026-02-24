@@ -9,6 +9,7 @@ Common math datasets converted into JSON format. Each entry has been normalized 
 {'file': 'gsm8k.json', 'source': 'https://huggingface.co/datasets/openai/gsm8k', 'split': 'train', 'entries': 7470}
 {'file': 'aime_2024.json', 'source': 'https://huggingface.co/datasets/Maxwell-Jia/AIME_2024', 'split': 'train', 'entries': 30}
 {'file': 'aime_2025.json', 'source': 'https://huggingface.co/datasets/opencompass/AIME2025', 'split': 'test', 'entries': 30}
+{'file': 'aime_2026.json', 'source': 'https://huggingface.co/datasets/MathArena/aime_2026', 'split': 'train', 'entries': 30}
 {'file': 'omni-math.json', 'source': 'https://huggingface.co/datasets/KbsdJames/Omni-MATH', 'split': 'test', 'entries': 2002}
 {'file': 'hle.json', 'source': 'https://huggingface.co/datasets/cais/hle', 'split': 'test', 'entries': 586}
 {'file': 'competition_math.json', 'source': 'https://huggingface.co/datasets/qwedsacf/competition_math', 'split': 'train', 'entries': 6482}
